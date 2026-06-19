@@ -4,4 +4,4 @@
 
 ## Portfolio: https://volodymyrsaienko240.github.io/Portfolio-3/sites/site-24/EventKeyCodesSite/index.html
 
-## Codepen: https://volodymyrsaienko240.io/vladimirsaenko/pen/VwQvxBB
+## Codepen: https://volodymyrsaienko240.io/volodymyrsaienko240/pen/VwQvxBB
